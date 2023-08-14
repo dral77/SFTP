@@ -1,0 +1,12 @@
+C:\temp\SFTP\SftpService\SFTPService\bin\Debug\net6.0\SFTPService.deps.json
+C:\temp\SFTP\SftpService\SFTPService\bin\Debug\net6.0\SFTPService.dll
+C:\temp\SFTP\SftpService\SFTPService\bin\Debug\net6.0\SFTPService.pdb
+C:\temp\SFTP\SftpService\SFTPService\obj\Debug\net6.0\SFTPService.csproj.AssemblyReference.cache
+C:\temp\SFTP\SftpService\SFTPService\obj\Debug\net6.0\SFTPService.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\SFTP\SftpService\SFTPService\obj\Debug\net6.0\SFTPService.AssemblyInfoInputs.cache
+C:\temp\SFTP\SftpService\SFTPService\obj\Debug\net6.0\SFTPService.AssemblyInfo.cs
+C:\temp\SFTP\SftpService\SFTPService\obj\Debug\net6.0\SFTPService.csproj.CoreCompileInputs.cache
+C:\temp\SFTP\SftpService\SFTPService\obj\Debug\net6.0\SFTPService.dll
+C:\temp\SFTP\SftpService\SFTPService\obj\Debug\net6.0\refint\SFTPService.dll
+C:\temp\SFTP\SftpService\SFTPService\obj\Debug\net6.0\SFTPService.pdb
+C:\temp\SFTP\SftpService\SFTPService\obj\Debug\net6.0\ref\SFTPService.dll
